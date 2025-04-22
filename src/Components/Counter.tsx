@@ -1,5 +1,4 @@
 // src/components/Counter.tsx
-import React from "react";
 import useCounterStore from "../Store/counterStore";
 
 const Counter = () => {
